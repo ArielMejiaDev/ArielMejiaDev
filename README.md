@@ -1,10 +1,6 @@
 # 👨‍💻 Ariel Mejia Dev 
+
 Fullstack/Mobile developer, Laravel and Flutter enthusiast.
-
-Creator of 
-
-- [Larapex Charts package](https://larapex-charts.netlify.app/)
-- [JSON API AUTH](https://json-api-auth.netlify.app/)
 
 <hr>
 
@@ -14,8 +10,11 @@ Creator of
 
 ## 📦 Packages
 
-* [Larapex charts](https://packagist.org/packages/arielmejiadev/larapex-charts)
-* [PagaloGT adapter for Laravel (gateway)](https://packagist.org/packages/arielmejiadev/pagalogt)
+
+* [Larapex Charts package](https://larapex-charts.netlify.app/)
+* [JSON API AUTH](https://json-api-auth.netlify.app/)
+* [PagaloGT for Laravel](https://packagist.org/packages/arielmejiadev/pagalogt)
+* [InertiaJS Error Page](https://packagist.org/packages/arielmejiadev/inertiajs-error-page)
 
 ## 💻 Contributions
 
