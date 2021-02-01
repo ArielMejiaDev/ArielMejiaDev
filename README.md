@@ -1,5 +1,11 @@
 # 👨‍💻 Ariel Mejia Dev 
-Fullstack/Mobile developer, Laravel and Flutter enthusiast, creator of [Larapex Charts package](https://arielmejiadev.github.io/LarapexCharts-Documentation/installation.html)
+Fullstack/Mobile developer, Laravel and Flutter enthusiast.
+
+Creator of 
+
+- [Larapex Charts package](https://larapex-charts.netlify.app/)
+- [JSON API AUTH](https://json-api-auth.netlify.app/)
+
 <hr>
 
 ## 🧙‍♂️Gists
