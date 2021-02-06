@@ -34,6 +34,10 @@ I contributed to the first version of [Tails](https://github.com/thedevdojo/tail
 * Sept 15 2020 [Test redirects after login by roles with Laravel.](https://dev.to/arielmejiadev/test-redirects-after-login-by-roles-with-laravel-1iai) 
 * Sept 10 2020 [Show API exceptions in Laravel.](https://dev.to/arielmejiadev/show-api-exceptions-in-development-31ic) 
 
+## 🎙️ Podcast
+
+🎧 [Cambios en Laravel en 2020](https://open.spotify.com/embed-podcast/episode/2TY2ml3d6fTKb9arsA9xga)
+
 ## Stats
 
 <p align="center">
@@ -46,3 +50,5 @@ I contributed to the first version of [Tails](https://github.com/thedevdojo/tail
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArielMejiaDev&show_icons=true" alt="ArielMejiaDev" />
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielMejiaDev&layout=compact" alt="ArielMejiaDev" />
 </p>
+
+
