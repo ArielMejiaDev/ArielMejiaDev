@@ -16,6 +16,12 @@ Fullstack/Mobile developer, Laravel and Flutter enthusiast.
 * [PagaloGT for Laravel](https://packagist.org/packages/arielmejiadev/pagalogt)
 * [InertiaJS Error Page](https://packagist.org/packages/arielmejiadev/inertiajs-error-page)
 
+#### ❤️ Support my opensource projects
+
+<a target="_blank" href="https://www.buymeacoffee.com/arielmejiadev">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=arielmejiadev&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00">
+</a>
+
 ## 💻 Contributions
 
 I contributed to the first version of [Tails](https://github.com/thedevdojo/tails), a TailwindCSS library.
@@ -28,8 +34,14 @@ I contributed to the first version of [Tails](https://github.com/thedevdojo/tail
 * Sept 15 2020 [Test redirects after login by roles with Laravel.](https://dev.to/arielmejiadev/test-redirects-after-login-by-roles-with-laravel-1iai) 
 * Sept 10 2020 [Show API exceptions in Laravel.](https://dev.to/arielmejiadev/show-api-exceptions-in-development-31ic) 
 
+## Stats
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=ArielMejiaDev.ArielMejiaDev" />
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FArielMejiaDev" />
+</p>
+
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArielMejiaDev&show_icons=true" alt="ArielMejiaDev" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielMejiaDev&layout=compact" alt="ArielMejiaDev" />
 </p>
