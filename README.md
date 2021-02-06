@@ -11,12 +11,10 @@ Fullstack/Mobile developer, Laravel and Flutter enthusiast.
 ## 📦 Packages
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArielMejiaDev&repo=larapex-charts)](https://github.com/ArielMejiaDev/larapex-charts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArielMejiaDev&repo=pagalogt)](https://github.com/ArielMejiaDev/pagalogt)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArielMejiaDev&repo=inertiajs-error-page)](https://github.com/ArielMejiaDev/inertiajs-error-page)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArielMejiaDev&repo=json-api-auth)](https://github.com/ArielMejiaDev/json-api-auth)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArielMejiaDev&repo=pagalogt)](https://github.com/ArielMejiaDev/pagalogt)
 
 #### ❤️ Support my opensource projects
 
