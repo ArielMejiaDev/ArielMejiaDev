@@ -36,7 +36,7 @@ I contributed to the first version of [Tails](https://github.com/thedevdojo/tail
 
 ## 🎙️ Podcast
 
-🎧 <a href="https://open.spotify.com/embed-podcast/episode/2TY2ml3d6fTKb9arsA9xga">Cambios en Laravel en 2020</a>
+🎧 <a href="https://open.spotify.com/episode/2TY2ml3d6fTKb9arsA9xga?si=60qt0RL8SxubYFuye0xXzA" target="_blank">Cambios en Laravel en 2020</a>
 
 ## Stats
 
