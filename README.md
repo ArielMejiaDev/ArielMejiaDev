@@ -28,11 +28,11 @@ I contributed to the first version of [Tails](https://github.com/thedevdojo/tail
 
 ## 📝 Latest articles from [dev.to](https://dev.to/arielmejiadev)
 
-* Nov 12 2020 [Solve "ReflectionException: Class env does not exist"](https://dev.to/arielmejiadev/reflectionexception-class-env-does-not-exist-2k0p) 
-* Oct 23 2020 [Print a div tag content with Javascript.](https://dev.to/arielmejiadev/print-a-div-tag-content-with-javascript-4a35) 
-* Oct 14 2020 [Avoid Ambiguous Column Eloquent Query Exception in Laravel](https://dev.to/arielmejiadev/avoid-ambiguous-column-eloquent-query-exception-in-laravel-dpd) 
-* Sept 15 2020 [Test redirects after login by roles with Laravel.](https://dev.to/arielmejiadev/test-redirects-after-login-by-roles-with-laravel-1iai) 
-* Sept 10 2020 [Show API exceptions in Laravel.](https://dev.to/arielmejiadev/show-api-exceptions-in-development-31ic) 
+* Apr 22 2022 [Set a PHP environment in Monterey OS Series' Articles](https://dev.to/arielmejiadev/series/17839)
+* Jan 17 2022 [Top 10 Additions to Laravel in 2021](https://dev.to/arielmejiadev/top-10-additions-to-laravel-in-2021-3o71) 
+* Jul 20 2021 [PHPUnit dataproviders to test validations in Laravel](https://dev.to/arielmejiadev/phpunit-dataprovider-with-laravel-9gg) 
+* Jul 08 2021 [Laravel package for every project](https://dev.to/arielmejiadev/laravel-package-for-every-project-1h81) 
+* Jun 03 2021 [Run PHPUnit tests automatically before pushing code in Laravel](https://dev.to/arielmejiadev/run-phpunit-tests-automatically-before-pushing-code-in-laravel-1kod) 
 
 ## 🎙️ Podcast
 
